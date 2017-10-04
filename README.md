@@ -1,5 +1,6 @@
 # ASIS&T17 
 Title: Agreeing to disagree: reconciling conflicting taxonomic views using a logic-based approach
+
 Authors: Yi-Yun Cheng, Nico Franz, Jodi Schneider, Shizhuo Yu, Thomas Rodenhausen, Bertram Ludaescher
 
 ## Abstract
