@@ -8,6 +8,7 @@ Taxonomy alignment is a way to integrate two or more taxonomies. Semantic intero
 
 ## Paper and Poster
 [Link to paper](http://hdl.handle.net/2142/97907)
+
 [Link to poster](https://github.com/EulerProject/ASIST17/blob/master/Poster/ASISTPoster.pdf)
 
 ## Replay use cases
